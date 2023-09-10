@@ -75,7 +75,8 @@ const Newsletter = () => {
           <p>
             View my{" "}
             <a
-              href="https://drive.google.com/file/d/1YuH55VPYgowyFc93g33myB3x4rSYuY7A/view?usp=drive_link"
+              href="https://drive.google.com/file/d/1Wngjj0gqeBB9-31ii4d679rcmHd5n-w1/view?usp=drive_link"
+
               className="text-[#00df9a]"
             >
               Resume
