@@ -24,7 +24,7 @@ export default function ShoppingApp() {
         />
         <CardContent>
           <Typography gutterBottom variant="h5" component="div">
-            Ecommerce MERN App
+            Ecommerce Next.js App
           </Typography>
           <Typography variant="body2" color="text.secondary">
             Full Stack shopping with checkout functionality along with payment
